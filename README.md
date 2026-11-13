@@ -21,14 +21,16 @@ Mi formación me ha orientado hacia el desarrollo de software, la seguridad de l
 
 ## Tecnologías
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Backend:** Python, Node.js, Java, Spring Boot
 - **Frontend:** React, Vite, HTML, CSS, JavaScript
@@ -40,16 +42,14 @@ Mi formación me ha orientado hacia el desarrollo de software, la seguridad de l
 ## Proyectos destacados
 
 ### Diletto
-Aplicación web para la gestión de inventario y ventas de una venta de alfajores. Incluye:
+Aplicación web para la gestión de inventario y ventas de alfajores, desarrollada con React, Vite y Supabase. Incluye:
 
 - Control de inventario de productos
 - Registro de ventas con varios productos por pedido
 - Gestión de clientes
 - Reservas de pedidos con abonos (anticipos)
 
-**Tecnologías:** React, Vite, Supabase
-
-> Repositorio próximamente.
+**Demo:** [antojo-diletto-buga.netlify.app](https://antojo-diletto-buga.netlify.app) · **Código:** [github.com/labarbosato/antojo-diletto-app](https://github.com/labarbosato/antojo-diletto-app)
 
 ## Certificaciones
 
