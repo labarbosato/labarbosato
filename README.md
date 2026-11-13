@@ -12,13 +12,6 @@ Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Occide
 
 Mi formación me ha orientado hacia el desarrollo de software, la seguridad de la información y la administración de sistemas. Me interesa construir soluciones que resuelvan problemas reales y combinar mi experiencia técnica en soporte con el desarrollo de aplicaciones.
 
-## Experiencia
-
-- **Analista de soporte en sitio junior** · Kyndryl Colombia / Stefanini (feb. 2023 – presente)
-  Soporte a colaboradores y visitantes, alistamiento y mantenimiento preventivo y correctivo de equipos, inventario, gestión de garantías, documentación de incidentes en ServiceNow y apoyo al área de infraestructura.
-- **Auxiliar de sistemas (practicante)** · Ingenio Sancarlos (jul. 2021 – feb. 2022)
-  Mantenimiento de equipos, instalación de aplicativos y soporte a usuarios e impresoras.
-
 ## Formación
 
 - **Ingeniería Informática** · Universidad Autónoma de Occidente (2024 – 2028)
@@ -37,10 +30,10 @@ Mi formación me ha orientado hacia el desarrollo de software, la seguridad de l
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Lenguajes:** Java, Python, JavaScript
-- **Frontend:** React, Vite, HTML, CSS
-- **Bases de datos y backend:** MySQL, Supabase
-- **Herramientas:** Git, Linux, ServiceNow
+- **Backend:** Python, Node.js, Java, Spring Boot
+- **Frontend:** React, Vite, HTML, CSS, JavaScript
+- **Datos:** SQL, MySQL, Supabase, fundamentos de machine learning
+- **Herramientas:** Git, GitHub, APIs REST, Linux
 - **Redes:** fundamentos de redes (Cisco)
 - **Seguridad y calidad:** ciberseguridad, ISO 27001, ISO 9001:2015
 
