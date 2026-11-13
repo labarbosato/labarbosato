@@ -81,5 +81,4 @@ Aplicación web para la gestión de inventario y ventas de una venta de alfajore
 
 ## Contacto
 
-- Correo: labarbosato@gmail.com
 - LinkedIn: [Laura Barbosa Torres](https://www.linkedin.com/in/laura-barbosa-torres-99b2a31a7/)
